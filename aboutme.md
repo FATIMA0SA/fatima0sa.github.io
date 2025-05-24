@@ -1,15 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Engineering with Intent — My Story in Data & AI
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I’m a Data and Analytics professional with over 7 years of experience building scalable data systems using modern technology stacks. As a creative, detail-oriented thinker, I thrive on transforming complex data into actionable insights through programming, quantitative analysis, and workflow automation.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+For me, data isn’t just numbers—it’s the key to solving real business problems with precision and impact. I’m passionate about designing solutions that are not only efficient but also meaningful, always seeking the brightest path through technical and strategic challenges.
 
 ### My story
 
