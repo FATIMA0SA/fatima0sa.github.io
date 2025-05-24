@@ -10,14 +10,20 @@ For me, data isn’t just numbers—it’s the key to solving real business prob
 
 ### My story
 
-My journey in Data and Analytics began in 2018, sparked by a deep curiosity about how data can drive smarter decisions. I was fortunate to be awarded multiple sponsored fellowships from the MiSK Foundation, where I received hands-on training and exposure to modern data practices.
+## 🧑‍💼 Who I Am
+
+My journey in Data and Analytics began in 2018, sparked by a deep curiosity about how data can drive smarter decisions. I was fortunate to be awarded multiple sponsored fellowships from the **MiSK Foundation**, where I received hands-on training and exposure to modern data practices.
 
 During that time, I completed several foundational programs:
 
-Data Foundations: Focused on understanding data types and classifications across domains
+- **Data Foundations**  
+  Focused on understanding data types and classifications across domains.
 
-Data Analyst (Python): Covered the entire data analysis lifecycle — from business understanding and data acquisition to wrangling and delivering visual insights
+- **Data Analyst (Python)**  
+  Covered the entire data analysis lifecycle — from business understanding and data acquisition to wrangling and delivering visual insights.
 
-Business Analytics (Alteryx): A condensed course with a focus on time series forecasting and hands-on data workflows
+- **Business Analytics (Alteryx)**  
+  A condensed course with a focus on time series forecasting and hands-on data workflows.
 
-Even earlier, during my time in college, I pursued a selective course in what was then called Data Mining — now widely recognized as Data Science. That early exposure laid the groundwork for a career driven by continuous learning and technical depth.
+Even earlier, during my time in college, I pursued a selective course in what was then called *Data Mining* — now widely recognized as *Data Science*. That early exposure laid the groundwork for a career driven by continuous learning and technical depth.
+
