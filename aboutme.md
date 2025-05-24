@@ -8,9 +8,8 @@ I’m a Data and Analytics professional with over 7 years of experience building
 
 For me, data isn’t just numbers—it’s the key to solving real business problems with precision and impact. I’m passionate about designing solutions that are not only efficient but also meaningful, always seeking the brightest path through technical and strategic challenges.
 
-### My story
 
-## 🧑‍💼 Who I Am
+## My Story 
 
 My journey in Data and Analytics began in 2018, sparked by a deep curiosity about how data can drive smarter decisions. I was fortunate to be awarded multiple sponsored fellowships from the **MiSK Foundation**, where I received hands-on training and exposure to modern data practices.
 
