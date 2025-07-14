@@ -2,9 +2,9 @@
 layout: post
 title: Cloud Computing
 subtitle: The Backbone of Modern Innovation
-cover-img: /assets/img/cloud-computing-overview.png
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/cloud-computing-overview.png
+cover-img: /assets/img/cloud.png
+thumbnail-img: /assets/img/cloud-computing-thumb.png
+share-img: /assets/img/cloud.png
 tags: [cloud_computing]
 author: Fatima Alsalman
 ---
